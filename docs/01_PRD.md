@@ -1,4 +1,16 @@
-\# KAPASITA MVP
+\# PRD (Product Requirements Document)
+
+\## KAPASITA MVP
+
+\*\*AI Policy Intelligence Dashboard untuk Prioritas Pendidikan Inklusif dan Penguatan Kapasitas Aparatur\*\*
+
+
+
+Versi: MVP 1.0
+
+
+
+Platform: Web Dashboard (Streamlit)
 
 
 
@@ -6,7 +18,7 @@
 
 
 
-KAPASITA adalah AI Policy Intelligence Dashboard untuk membantu identifikasi prioritas intervensi pendidikan inklusif antar provinsi di Indonesia berdasarkan analitik data, rekomendasi kebijakan, dan kebutuhan pengembangan kapasitas aparatur.
+Menyediakan sistem pendukung keputusan yang membantu pemerintah mengidentifikasi wilayah prioritas pendidikan inklusif, memahami penyebab utama permasalahan, menentukan rekomendasi intervensi, memetakan kebutuhan kapasitas aparatur, dan menjelaskan hasil analisis melalui AI Copilot.
 
 
 
@@ -51,6 +63,8 @@ Pengambilan keputusan pendidikan inklusif masih tersebar pada berbagai sumber da
 4\. Pengambil Keputusan
 
 5\. Tim Evaluasi
+
+6\. Akademisi
 
 
 

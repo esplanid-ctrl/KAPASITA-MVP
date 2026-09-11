@@ -1,0 +1,39 @@
+# Core
+pandas==2.3.2
+numpy==2.3.2
+
+# Excel
+openpyxl==3.1.5
+
+# Machine Learning
+scikit-learn==1.7.1
+
+# Database
+sqlalchemy==2.0.43
+
+# Visualization
+plotly==6.3.0
+
+# Dashboard
+streamlit==1.49.1
+
+# Maps
+pydeck==0.9.1
+
+# AI
+google-generativeai==0.8.5
+
+# Utilities
+python-dotenv==1.1.1
+
+# Statistics
+scipy==1.16.1
+
+# Validation
+pandera==0.26.1
+
+# Logging
+loguru==0.7.3
+
+# Development
+pytest==8.4.2

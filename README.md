@@ -10,6 +10,3 @@ MVP kompetisi LAN Datathon 2026. KAPASITA mendemonstrasikan alur:
 - Tidak ada external expert validation atau pilot study sebagai prasyarat kompetisi.
 - Target pengguna: analis kebijakan, perencana program, pengelola pengembangan kapasitas, evaluator, pimpinan/pengambil keputusan, pemerintah daerah, akademisi.
 - AI merekomendasikan; manusia memutuskan.
-
-### Sumber data
-Data dan dokumen kebijakan dibaca dari Google Drive. Repository tidak menyimpan URL sumber, raw data, atau secret.
